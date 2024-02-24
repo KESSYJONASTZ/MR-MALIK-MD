@@ -7,17 +7,17 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923494757886', 'Nasrullah', true], 
+  ['255620700657', 'MR KESSY', true], 
   [''] 
 ] //Number of owners
-global.pairingNumber = "923494757886" //put your bot number here
+global.pairingNumber = "255620700657" //put your bot number here
 /*============== CHATGPT ==============*/
 global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
 global.org = 'org-hE49SehUQEPAGJAy20yr4Om9'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 //*============= ==============*/
-global.mods = ['923494757886','923124442554'] 
-global.prems = ['923124442554', '923494757886']
-global.allowed = ['923124442554', '923494757886']
+global.mods = ['255620700657','923124442554'] 
+global.prems = ['255620700657', '923494757886']
+global.allowed = ['255620700657', '923494757886']
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f'];
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())];
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63'];
@@ -61,7 +61,7 @@ global.APIKeys = {
 };
 
 // Sticker WM
-global.botname = 'Mr-Malik'
+global.botname = 'Mr-Kessy Md'
 global.premium = 'true'
 global.packname = 'Mr-Malik' 
 global.author = '@Malik-Experts' 
